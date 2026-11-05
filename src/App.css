@@ -1,4 +1,10 @@
-#root {
+.app-container {
   width: 100%;
-  min-height: 100vh;
+  padding: 20px;
+}
+
+.users-heading {
+  text-align: center;
+  color: blue;
+  margin: 30px 0;
 }
